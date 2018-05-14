@@ -63,7 +63,6 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
 $ cd ~/temp
 $ git clone https://github.com/tensorflow/tensorflow
 $ cd tensorflow
-$ git checkout v1.8
 ```
 
 #### Patch files
